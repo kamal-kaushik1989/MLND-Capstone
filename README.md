@@ -1,5 +1,5 @@
 # MLND-Capstone
 
-For dataset you can refer below links:
+For dataset you can refer below link:
 
 https://www.kaggle.com/c/quora-question-pairs/data
